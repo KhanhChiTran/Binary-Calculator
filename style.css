@@ -1,0 +1,19 @@
+.container {
+  width: 33%;
+}
+
+.res {
+  background-color: lightgray;
+  border: 1px black solid;
+  height: 48px;
+  font-size: 20px;
+}
+
+#btns {
+  display: flex;
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0;
+  float: left;
+}
